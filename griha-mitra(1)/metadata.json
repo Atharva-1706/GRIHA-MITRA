@@ -1,0 +1,8 @@
+{
+  "name": "Griha-Mitra",
+  "description": "A digital companion app for domestic workers featuring AI appliance guides, multilingual translation, job ledger, and SOS emergency help.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
