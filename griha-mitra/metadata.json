@@ -1,8 +1,0 @@
-{
-  "name": "Griha-Mitra",
-  "description": "An AI digital companion for domestic workers, providing appliance guidance, job ledgers, and SOS emergency support with a zero-learning-curve interface.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
